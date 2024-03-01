@@ -15,11 +15,7 @@ const Projects = () => {
           </picture>
           <div className="projectInfo">
             <h3>Todo List</h3>
-            <p>
-              El todo list es una aplicacion sencilla que sirve para hacer una
-              listas de tareas en la cual se puede consultar tareas por filtro,
-              editar, borrar y agregar.
-            </p>
+            <p>The todo list is a simple application that is used to make a task list in which you can see tasks to filter, edit, delete and add.</p>
             <span>
               <Icon icon="vscode-icons:file-type-html" width="42" height="42" />
               <Icon icon="vscode-icons:file-type-css" width="42" height="42" />
@@ -50,11 +46,7 @@ const Projects = () => {
           </picture>
           <div className="projectInfo">
             <h3>World Planet</h3>
-            <p>
-              Esta es una aplicacion hecha para buscar paises con detallada
-              informacion sobre ellos, tambien se pueden agregar paises en caso
-              de que no existan o eliminarlos o editar su informacion
-            </p>
+            <p>This is an application made to search for countries with detailed information about them, you can also add countries if they do not exist or delete them or edit their information.</p>
             <span>
               <Icon icon="vscode-icons:file-type-html" width="42" height="42" />
               <Icon icon="vscode-icons:file-type-css" width="42" height="42" />
