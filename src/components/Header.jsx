@@ -12,7 +12,7 @@ function Header() {
           <h2 className="animate__animated animate__fadeInUp">I'm a web developer</h2>
         </article>
         <article className="icons animate__animated animate__fadeInUp">
-          <a href="">
+          <a href="https://www.linkedin.com/in/deiber-jerez/" target="_blank">
             <Icon icon="mdi:linkedin" width="48" height="48" color="white" />
           </a>
           <a href="mailto:deiber22cora@gmail.com" target="_blank">
